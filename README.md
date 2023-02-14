@@ -1,1 +1,1 @@
-# 7192416_APIs_DRF
+API made by learning the basics of DJANGO REST FRAMEWORK
